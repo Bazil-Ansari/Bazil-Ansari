@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bazil Ansari 👋
 
-<!--
-**Bazil-Ansari/Bazil-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Sakarya University of Applied Sciences (SUBÜ), Türkiye.
 
-Here are some ideas to get you started:
+I'm currently developing my programming skills and building practical projects as I progress through my studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Languages:** C, Python (learning)
+- **Currently exploring:** C++, Object-Oriented Programming
+- **Tools:** VS Code, GCC, GitHub
+
+### 🚀 Projects
+- **Student Grade Calculator** — A simple grade calculation program written in C.
+- **Student Management System** — A menu-driven C application featuring student record management and file handling.
+
+### 🎯 Current Goals
+- Strengthen my programming and problem-solving skills.
+- Build practical projects and expand my portfolio.
+- Develop my knowledge of software engineering and computer science.
+
+### 🌍 Languages
+- English
+- Turkish
+- Urdu
+
+I'm always interested in learning, building and improving.
